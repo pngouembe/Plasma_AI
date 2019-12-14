@@ -10,4 +10,4 @@ This reprository contains the C addaptation of pytorch convolutive neuronal netw
 -data:
   This folder contains the data base used to train the neuronal network.
 # Tutorial
-  To run the application run CNN.py then convertModel.py then create a build directory in C. In this directory do 'CMake ..' and 'make' then run matrices and you should see the results.
+  To run the application run *CNN.py* then *convertModel.py* then create a build directory in C. In this directory do *CMake ..* and *make* then run matrices and you should see the results.
